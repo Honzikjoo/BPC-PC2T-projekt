@@ -1,6 +1,6 @@
-# DE1-projekt
+# BPC-PC2T-projekt
 #########################################################################################
-##  Designer   : Jan Slavík                                                            ##
-##  Link       : https://github.com/Honzikjoo/DE1-projekt                              ##
-##  Description: .muj projekt                                                          ##
+##  Designer   : Jan Slavík                                                                                           ##
+##  Link       : https://github.com/Honzikjoo/BPC-PC2T-projekt/edit/main/README.md#L3C27                              ##
+##  Description: .muj projekt                                                                                         ##
 
